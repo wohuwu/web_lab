@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 0 15px;
+    background-color: FloralWhite;
+}
+
+h1, h2 {
+    color: Maroon;
+}
+
+h2 {
+    border-bottom: 0px solid #ccc;
+    padding-bottom: 3px;
+}
+
+h3 {
+    color: Brown;
+}
+
+img {
+    max-width: 300px;
+}
+
+a {
+    color: IndianRed;
+}
+.text-cell {
+    padding-right: 20px;
+    width: 40%; 
+}
+
+.img-cell {
+    width: 60%; 
+}
