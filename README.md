@@ -8,4 +8,4 @@
 - Фотографии автора и хобби
 
 ## Ссылка на сайт
-[Открыть сайт](https://твой_никнейм.github.io/имя_репозитория/)
+[Открыть сайт](https://github.com/wohuwu/web_lab/blob/main/README.md)
